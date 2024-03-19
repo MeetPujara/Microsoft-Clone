@@ -1,6 +1,6 @@
 # Microsoft Clone 🖥️
 
-Welcome to the Microsoft Clone project! This project is a replica of the Microsoft website created using HTML, CSS, and Tailwind CSS.
+Welcome to the Microsoft Clone project! This project is a replica of the Microsoft website created using Tailwind CSS.
 
 ## Description ℹ️
 
